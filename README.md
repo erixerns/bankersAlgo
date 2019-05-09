@@ -1,4 +1,4 @@
-# bankersAlgo
+# Bankers Algorithm Implementation
 ### Implementation of Banker's Algorithm in python. This algorithm is used to test if a system is in deadlocked state or not.
 1. Let Work and Finish be vectors of length m and n, respectively. 
 
