@@ -6,9 +6,9 @@
    
 2. Find an index i such that both
 
-  a. Finish[i] == false
-  
-  b. Need i ≤ Work332
+      a. Finish[i] == false
+      
+      b. Need i ≤ Work332
   
 If no such i exists, go to step 4.
 
